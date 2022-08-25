@@ -36,7 +36,7 @@ def comprobador(lst):
         pares.append(par)
     print("Los elementos sin un par son ",len(variables_sin_par)," Y son los siguientes: ",variables_sin_par)
 
-comprobador(lista3)
+comprobador(New_list)
 """print(ord("{"))#123
 print(ord("}"))#125
 print(ord("["))#91
