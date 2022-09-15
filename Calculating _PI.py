@@ -19,4 +19,4 @@ def PI(n):
         points_total+=1
     return 4*points_inside/points_total
 
-print(PI(550))
+print(PI(560))
